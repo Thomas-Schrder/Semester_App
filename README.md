@@ -1,4 +1,4 @@
-# Food Option
+# Food Options
 **// Opdaterede version af README //**
 
 
@@ -168,7 +168,7 @@ Dine videoer fra lektionerne.
 https://www.themealdb.com/api.php
 
 ****
-# Tutorial til Food options - Semester App
+# Tutorial til Food Options - Semester App
 https://www.youtube.com/watch?v=NSZetajhbv4
 
 
