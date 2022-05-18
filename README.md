@@ -110,7 +110,7 @@ UI test (Nåede ikke nogen specifik integration test).
 
 
 ****
-**//Gamle version af README//**
+**// Gamle version af README //**
 
 
 **BIO:**
@@ -149,3 +149,26 @@ Based on the requirements the following user stories ahve been established:
 - The user want to ajust settings
 - The user want to exit the game
 - The user want to enter the menu/meáin section
+
+****
+# References
+**Links:**
+https://www.youtube.com/watch?v=N3qv4k4KO9g 
+
+https://www.youtube.com/watch?v=EF33KmyprEQ
+
+https://www.youtube.com/watch?v=uLs2FxFSWU4&t=504s
+
+https://www.youtube.com/watch?v=d7UxPYxgBoA
+
+Dine videoer fra lektionerne.
+
+
+**API:**
+https://www.themealdb.com/api.php
+
+****
+# Tutorial til Food options - Semester App
+https://www.youtube.com/watch?v=NSZetajhbv4
+
+
