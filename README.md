@@ -4,7 +4,7 @@
 
 **Baggrund for valg:** 
 
-Min originale idé var, at lave en film applikation, hvor man kunne vælge mellem følgende "Random film", "Nyeste film", og "Film Categorier".
+Min originale idé var, at lave en film applikation, hvor man kunne vælge mellem følgende "Random film", "Nyeste film", og "Film kategorier".
 
 Det var dog svært, at komme igang med ordentligt. Så den idé blev kasseret.
 
