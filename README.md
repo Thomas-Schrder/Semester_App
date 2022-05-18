@@ -34,16 +34,16 @@ Jeg har opstillet disse requierements til min mad applikation:
 
 **Interaction:**
 
-Interactions - Eksempler kan findes på MainActivity, LoginActivity, RegistrationActivity.
+Interactions Inkluderet - Eksempler kan findes på MainActivity, LoginActivity, RegistrationActivity.
 
-Toast - Eksempler kan findes på  LoginActivity og RegistrationActivity.
+Toast Imkluderet - Eksempler kan findes på LoginActivity og RegistrationActivity.
 
-Icons, Images og Themes in kluderet.
+Icons, Images og Themes inkluderet.
 
 
 **Navigation:**
 
-Explicit intent - (Eksempel ved valg af mad-kategori under "Food Options meal categories" på fragment_home).
+Explicit intent - Inkluderet (Eksempel ved valg af mad-kategori under "Food Options meal categories" på fragment_home).
 
 Fragments - Inkluderet.
 
